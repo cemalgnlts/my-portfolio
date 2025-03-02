@@ -188,6 +188,11 @@ section.works {
   width: 0ch;
   text-align: right;
   padding-right: 4ch;
+  padding-bottom: 0.5em;
+}
+
+.metadata p {
+  max-width: 30ch;
 }
 
 .confetti {
